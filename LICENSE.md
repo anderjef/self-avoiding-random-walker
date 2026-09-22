@@ -1,8 +1,8 @@
-# Self Avoiding Random Walker
+# Self Avoiding Random Walker License
 
 ## Copyright
 
-(c) © 2021 Jeffrey Andersen
+Copyright (c) 2021 Jeffrey Andersen
 
 ## Warranty
 
